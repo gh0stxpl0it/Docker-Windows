@@ -1,4 +1,4 @@
-wget -O ng.sh https://github.com/gh0stxpl0it/Docker-Windows/blob/main/ngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://raw.githubusercontent.com/gh0stxpl0it/Docker-Windows/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
